@@ -1,0 +1,192 @@
+body{
+    background-color: #E5E5E5;
+    margin: 40px;
+}
+.title {
+    background-color: #fff;
+    padding: 40px; 
+    display: flex;
+}
+.rectangle-1{
+    font-family: 'Montserrat';
+    width: 370px;
+    height: 1319px;
+    background-color: #DFEEFF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.img{
+    background-image: url(../images/nazar.jpg);
+    width: 370px;
+    height: 370px;
+}
+.contacts{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.contacts h1 {
+    font-size: 22px;
+}
+.contacts h2 {
+    font-size: 14px;
+}
+.contacts a {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 21px
+}
+.tech-skills{
+    margin-top: 40px;
+    padding-left: 40px;
+}
+.tech-skills h1{
+    font-size: 22px;
+}
+.tech-skills li{
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.soft-skills{
+    margin-top: 40px;
+    padding-left: 40px;
+}
+.soft-skills h1{
+    font-size: 22px;
+}
+.soft-skills li{
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.rectangle-2{
+    font-family: 'Montserrat';
+    height: 1319px;
+    margin-left: 88px;
+    margin-top: 70px;
+}
+.text-info{
+    margin-top: 0px;
+    width: 702px;
+    margin-bottom: 0px;
+}
+.text-info h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 0px;
+}
+.text-info h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.text-info p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    color: #595959;
+}
+.project{
+    margin-top: 40px;
+}
+.project h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.list-project{
+    display: flex;
+    line-height: 15px;
+}
+.link{
+    margin-right: 129px;
+}
+.link a{
+    font-style: normal;
+    font-weight: 400;   
+    font-size: 14px;
+    
+    margin-left: 8px;
+
+}
+.link h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    
+}
+.prop{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+.work-experience {
+    margin-top: 24.4px;
+}
+.work-experience h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+.work-experience h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.work-experience p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.work-experience li{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;  
+    color: #595959;
+}
+.education {
+    margin-top: 40px;
+    
+}
+.education h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+}
+.education h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6096FF;
+}
+.education h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+.education p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
